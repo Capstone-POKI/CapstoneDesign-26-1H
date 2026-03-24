@@ -460,7 +460,7 @@
 | (5) 트랙  | 산학 |
 | (6) 과제 키워드 | 탄소 배출 관리, 탄소 배출비용 시각화, 맞춤형 행동 가이드, 절감 시뮬레이션, ESG 리포팅 자동화, B2B-B2C 선순환 생태계, 경량화 SaaS |
 | (7) 과제 내용 요약 |   |
-| (8) 주요 Link |  |
+| (8) 주요 Link | github : https://github.com/smileblu/Capstone |
  
 <br>
  
